@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.25f4e1e5.chunk.css",
+    "main.js": "/static/js/main.b0412690.chunk.js",
+    "main.js.map": "/static/js/main.b0412690.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.b1714db6.js",
+    "runtime-main.js.map": "/static/js/runtime-main.b1714db6.js.map",
+    "static/js/2.20b16971.chunk.js": "/static/js/2.20b16971.chunk.js",
+    "static/js/2.20b16971.chunk.js.map": "/static/js/2.20b16971.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.22e383252b53d8518db2cf9570016a78.js": "/precache-manifest.22e383252b53d8518db2cf9570016a78.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.25f4e1e5.chunk.css.map": "/static/css/main.25f4e1e5.chunk.css.map",
+    "static/media/Lyon-Setup-min.JPG": "/static/media/Lyon-Setup-min.4d2ef319.JPG",
+    "static/media/App.scss": "/static/media/background.00051dbb.jpg"
+  }
+}
